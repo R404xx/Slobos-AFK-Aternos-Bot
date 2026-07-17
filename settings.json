@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Grand-Roleplay.aternos.me:24177",
-    "port": 27586,
+    "ip": "Grand-Roleplay.aternos.me",
+    "port": 24177,
     "version": "",
     "try-creative": false
   },
