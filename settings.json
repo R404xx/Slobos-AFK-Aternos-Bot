@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AuraAI",
     "password": "",
     "type": "offline"
   },
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 15000,
+    "auto-reconnect-delay": 60000,
     "max-reconnect-delay": 120000
   },
   "movement": {
