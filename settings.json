@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "Grand-Roleplay.aternos.me:24177",
     "port": 27586,
     "version": "",
     "try-creative": false
